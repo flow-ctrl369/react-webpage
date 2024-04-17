@@ -39,7 +39,7 @@ nav a {
         list-style-type: none;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-weight: 300;
-    transition: 300ms ease-in-out;
+    transition: 250ms ease-in-out;
             font-family: "Outfit", sans-serif;
               font-weight: 300;
  
@@ -47,7 +47,7 @@ nav a {
 
 nav a:hover {
   cursor: pointer;
-    color: rgb(206, 220, 16);
+    color: rgb(217, 230, 41);
 
 
 }
@@ -83,7 +83,7 @@ nav a:hover {
 }
 
 .card-item:hover {
-    box-shadow: 0px 20px 80px -40px #d1c600;
+    box-shadow: 0px 0px 10px 0px #d1c7007e;
   transform: translateY(-2px);
   cursor: pointer;
 
@@ -99,6 +99,7 @@ nav a:hover {
 .card-item p {
   color: rgb(173, 171, 171);
   font-size: 12px;
+  /* margin-bottom: 20px; */
 }
 
 .card-image {
