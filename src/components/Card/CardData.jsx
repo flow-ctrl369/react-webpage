@@ -21,7 +21,7 @@ function CardData() {
         firstName="John"
         lastName="Mckenna"
         profession="Developer"
-        text="I love Full Stack Development!"
+        text="I love Full Stack Development. I progress every day even if it's only by 1%!"
       />
 
       <Card
@@ -41,7 +41,7 @@ function CardData() {
       <Card
         image={image4}
         firstName="April"
-        lastName="Tau"
+        lastName="Winnhouse"
         profession="Business Analyst"
         text="I love hunting down what people want through gathering requirements!"
       />
