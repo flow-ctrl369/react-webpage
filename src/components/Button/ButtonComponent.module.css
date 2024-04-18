@@ -14,11 +14,16 @@
      padding-left: 20px;
      padding-right: 20px;
     /* padding: 10px; */
-    border-radius: 10px;
-    padding: 10px;
-    min-width: fit-content;
+    border-radius: 30px;
+    padding: 5px;
+    min-width: 75px;
     margin: 10px; 
     /* margin-bottom: 5px; */
     font-size: 13px;
+
+}
+
+.mainDiv {
+    margin: 0px;
 
 }
